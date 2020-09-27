@@ -7,7 +7,7 @@ You can make an executable through Pyinstaller (converting a python script to a 
   1. open the command prompt
   2. go to the directory where your programma (.py) file lives
   3. type: pyinstaller.exe  --windowed yourprogramme.py
-    - If Pyinstaller is not in your environment variable you have to wright down the full path to pyinstaller.exe
+    - If Pyinstaller is not in your environment variable you have to write down the full path to pyinstaller.exe
     - the flag windowed is necessary for GUI applications
     - extra options:
       --icon = yourIcon.ico
